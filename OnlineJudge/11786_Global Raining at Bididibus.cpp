@@ -1,4 +1,3 @@
-#include <algorithm>
 #include <bits/stdc++.h>
 
 #define in long long
@@ -6,7 +5,6 @@
 #define LSOne(S) ((S) & (-S))
 #define fi first
 #define se second
-#define ld long double
 
 using namespace std;
 typedef pair<int, int> ii;
