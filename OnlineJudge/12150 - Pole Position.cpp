@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
-#define in long long
+#define int long long
 #define sz(x) (int)x.size()
 #define LSOne(S) ((S) & (-S))
 #define fi first
