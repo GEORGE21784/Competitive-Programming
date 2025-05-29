@@ -12,9 +12,9 @@ typedef pair<int, int> ii;
 const int inf = (int)1e18;
 const int MAX = (int)1e5 + 7;
 
-/* Conjunto de ideas clave para la resolucion:
-   - Encontrar el ancestro x nodos por arriba del nodo u.
-   - Encontrar la frecuencia de un numero x en el subarbol de u (Euler Tour).
+/* Key ideas for the solution:
+   - Find the ancestor x nodes above node u.
+   - Find the frequency of a number x in the subtree of u (Euler Tour).
 */
 
 int n;
