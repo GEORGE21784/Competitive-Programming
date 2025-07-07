@@ -22,7 +22,7 @@ void solve() {
    Matrix input;
    // (team, problem) -> AC? 
    Matrix g(m + 1, vi(n));
-   // winner[x] winner of problem x
+   // winner[x] last blood of problem x
    vi winner(n, -1);
    for(int i = 0; i < Q; i++) {
       int timer, team; string a, b;
